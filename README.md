@@ -16,5 +16,5 @@ A full-stack web application built with **Next.js** that enables users to upload
 - **Authentication**: NextAuth.js
 - **Cloud Storage**: ImageKit
 - **Database**: MongoDB
-- **Styling**: Tailwind CSS (if used, mention here)
-- **ORM/ODM**: Mongoose (if used, mention here)
+- **Styling**: Tailwind CSS
+- **ORM/ODM**: Mongoose
