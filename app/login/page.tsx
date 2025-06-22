@@ -2,7 +2,7 @@
 
 import { signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import React, { useState } from "react";
 
 const Login = () => {
   const [email, setEmail] = useState("");
